@@ -211,19 +211,3 @@ npx http-server -p 8001 -c-1
 5. **Encode**: Try encoding "Hello world" in the encode section
 6. **Decode**: See the token IDs convert back to text
 7. **Experiment**: Try your own text and different vocabulary sizes
-
-### Advanced Usage:
-
-- **Domain-Specific**: Train on technical documentation for specialized vocabulary
-- **Multilingual**: Test with different languages to see adaptation
-- **Size Comparison**: Train same text with different vocabulary sizes
-- **Performance Testing**: Time training on large texts
-
-## 🌟 Why This Implementation?
-
-### Educational Focus
-
-- **Transparency**: See exactly what happens during training
-- **Visual Learning**: Watch the algorithm work step-by-step
-- **Interactive**: Hands-on experience beats theoretical explanation
-- **Comprehensive**: Covers theory, implementation, and practice
