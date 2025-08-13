@@ -98,7 +98,7 @@ This is a **pure JavaScript** implementation with no external libraries or build
 
 ```bash
 # Start server with Node.js
-npm run serve:node
+npm run start:node
 # or manually
 npx http-server -p 8000 -c-1
 
@@ -110,7 +110,7 @@ http://localhost:8000
 
 ```bash
 # Start server
-npm run start
+npm run start:python
 # or manually
 python -m http.server 8000
 
