@@ -159,29 +159,6 @@ npx http-server -p 8001 -c-1
 - **Verify**: Check that decoding matches original text
 - **Round-Trip**: Test encoding → decoding accuracy
 
-## 🔍 What You'll Learn
-
-### Core Concepts
-
-- **Tokenization**: How text becomes numbers for AI
-- **Training Process**: What "learning vocabulary" actually means
-- **BPE Algorithm**: Step-by-step understanding of the process
-- **Vocabulary Building**: How frequent patterns become tokens
-
-### Practical Skills
-
-- **Text Preprocessing**: Understanding AI text preparation
-- **Vocabulary Optimization**: Balancing size vs. quality
-- **Performance Analysis**: Speed and efficiency considerations
-- **Real-World Application**: How modern AI models process text
-
-### Hands-On Experience
-
-- **Try Different Texts**: News, literature, technical docs, code
-- **Experiment with Sizes**: See how vocabulary size affects results
-- **Compare Languages**: Test different languages and domains
-- **Understand Trade-offs**: Speed vs. accuracy, size vs. coverage
-
 ## ⚡ Technical Details
 
 ### Technical Implementation
